@@ -5,8 +5,6 @@
 #include <stdint.h>
 #include <string.h>
 
-// BUILD: gcc vsc.c -o scr -lm
-
 #define DEFAULT_SCRAMBLE_SIZE 20
 #define DEFAULT_CUBE_SIZE 3
 
