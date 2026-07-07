@@ -4,6 +4,8 @@
   You can also input your own scramble.  
 
 ## Usage
+  To compile, you can use gcc: `gcc main.c -o scramble -lm`  
+    
   Without arguments generates 20 steps long scramble algorithm and applies it on a cube.  
   `-c` sets the cube size. Supported sizes are from 2 to 19  
   `-s` sets the scramble length. Supported sizes are from 1 up  
