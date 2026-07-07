@@ -11,4 +11,4 @@
   `--help` help page  
 
 
-<img width="1282" height="559" alt="15-53-20-07-07-2026" src="https://github.com/user-attachments/assets/b41183ab-7746-40c1-9458-f211a4c2f805" />
+<img width="1289" height="552" alt="15-59-28-07-07-2026" src="https://github.com/user-attachments/assets/029573c3-a757-49cd-bc47-d46a24bfff87" />
